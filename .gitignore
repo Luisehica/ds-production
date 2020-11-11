@@ -1,16 +1,16 @@
-data/
-ignore/
-models/
+# Virtualenv
+.Python
+[Bb]in
+[Ee]tc
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+[Ss]hare
+pyvenv.cfg
+.venv
+pip-selfcheck.json
 
-*.pkl
-*.h5
-*.zip
-
-*.jpg
-*.png
-
-*.env
-*.json
-
-__pycache__/
-.ipynb_checkpoints/
+# Visual Studio Code
+.vscode

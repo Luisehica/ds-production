@@ -1,0 +1,8 @@
+requests
+flask
+gunicorn
+mlflow
+pillow
+dash
+
+scikit-learn
