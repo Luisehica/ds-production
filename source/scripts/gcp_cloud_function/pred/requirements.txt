@@ -1,5 +1,0 @@
-google-cloud-storage
-sklearn
-pandas
-flask
-joblib
